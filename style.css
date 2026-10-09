@@ -15,8 +15,7 @@ p {
     word-break: break-all;
 
     background: url(Saiii.jpg) no-repeat center;
-    background-size: cover;
-
+    background-size: 100%;
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
