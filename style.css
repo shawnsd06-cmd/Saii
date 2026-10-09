@@ -9,8 +9,8 @@ p {
     width: 100vw;
     height: 100vh;
     overflow: hidden;
-    font-size: 10px;
-    line-height: 8px;
+    font-size: 8px;
+    line-height: 6px;
     text-align: justify;
     word-break: break-all;
 
