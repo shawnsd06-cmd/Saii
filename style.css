@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #000;
+}
+
+p {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    font-size: 8px;
+    line-height: 6px;
+    text-align: justify;
+    word-break: break-all;
+
+    background: url(Saiii.jpg) no-repeat center;
+    background-size: cover;
+
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+}
